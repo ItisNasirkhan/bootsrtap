@@ -1,0 +1,42 @@
+@font-face {
+    font-family: nue;
+    src: url(./SpartanMB-Bold.otf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: nue;
+
+}
+body{
+    overflow-x: hidden;
+}
+
+.carousel-item{
+    height: 60vh;
+    width: 100%;
+}
+.container-fluid{
+    text-align: center;
+    
+}
+.About h1{
+    font-size: 30px;
+}
+.About p{
+    font-size: 15px;
+}
+
+.About img{
+    height: 50vh;
+    width: 40vh;
+    position: absolute;
+    top: 90vh;
+    right: 25vh;
+}
+.About image{
+    display: flex;
+    align-items: center;
+}
