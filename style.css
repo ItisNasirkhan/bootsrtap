@@ -32,11 +32,11 @@ body{
 .About img{
     height: 50vh;
     width: 40vh;
-    position: absolute;
+    /* position: absolute;
     top: 90vh;
-    right: 25vh;
+    right: 25vh; */
 }
 .About image{
-    display: flex;
-    align-items: center;
+    /* display: flex;
+    align-items: center; */
 }
